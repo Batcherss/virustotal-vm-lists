@@ -3,7 +3,7 @@
 
 ## What here?
 
-Hardware Info (HW Info) is a set of data about your computer that helps you understand what’s inside your PC and how it’s running. Typical info collected includes:
+Hardware Info (HW Info) is a set of data about your computer that helps for creating anti-vm scripts. Typical info collected includes:
 
 - **MAC Address** — the unique ID of your network interface, basically your network card’s passport.
 - **IP Address** — your local network address, so other devices know where to find you.
