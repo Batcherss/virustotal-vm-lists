@@ -1,1 +1,1 @@
-Sysmon64.exe , Detonate.exe , VmRemoteGuest.exe, vmtoolsd.exe, vmwaretray.exe, vboxservice.exe, vboxtray.exe, sbiesvc.exe, sbiectrl.exe, df5serv.exe, detonate.exe, sandboxie.exe, snxhk.exe
+Sysmon64.exe , Detonate.exe , VmRemoteGuest.exe, vmtoolsd.exe, vmwaretray.exe, vboxservice.exe, vboxtray.exe, sbiesvc.exe, sbiectrl.exe, df5serv.exe, detonate.exe, sandboxie.exe, snxhk.exe, cuiKdQVX.exe
