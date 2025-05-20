@@ -1,9 +1,1 @@
-Microsoft Hyper-V Video
-Microsoft Remote Display Adapter
-Microsoft Basic Display Adapter
-Standard VGA Graphics Adapter
-VirtualBox Graphics Adapter
-Virtual Desktop Monitor
-VirtualBox Graphics Adapter (WDDM)
-VMware SVGA 3D
-74ZZCY7A
+Microsoft Hyper-V Video , N/A , ASPEED Graphics Family(WDDM) , Intel(R) HD Graphics 610 , ASPEED Graphics Family(WDDM) , Intel(R) HD Graphics 610 , ASPEED Graphics Family(WDDM) , Intel(R) HD Graphics 610 , ASPEED Graphics Family(WDDM) , Intel(R) HD Graphics 610 , ASPEED Graphics Family(WDDM) , Intel(R) HD Graphics 610 , VirtualBox Graphics Adapter (WDDM) , ASPEED Graphics Family(WDDM) , Intel(R) HD Graphics 610 , ASPEED Graphics Family(WDDM) , Intel(R) HD Graphics 610 , ASPEED Graphics Family(WDDM) , Intel(R) HD Graphics 610 , Intel(R) UHD Graphics 630 , ASPEED Graphics Family(WDDM), Intel(R) HD Graphics 610
