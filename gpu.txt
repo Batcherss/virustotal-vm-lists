@@ -1,1 +1,9 @@
 Microsoft Hyper-V Video
+Microsoft Remote Display Adapter
+Microsoft Basic Display Adapter
+Standard VGA Graphics Adapter
+VirtualBox Graphics Adapter
+Virtual Desktop Monitor
+VirtualBox Graphics Adapter (WDDM)
+VMware SVGA 3D
+74ZZCY7A
