@@ -1,4 +1,4 @@
- , These Windows services are started:
+ , N/A , These Windows services are started:
 
    AppX Deployment Service (AppXSVC)
    Background Tasks Infrastructure Service
@@ -62,289 +62,368 @@
    WinHTTP Web Proxy Auto-Discovery Service
    Workstation
 
-The command completed successfully. , N/A , These Windows services are started:
+The command completed successfully. , These Windows services are started:
 
-   AppX Deployment Service (AppXSVC)
+   Application Information
+   Background Intelligent Transfer Service
    Background Tasks Infrastructure Service
    Base Filtering Engine
    Certificate Propagation
+   Clipboard User Service_26007
    CNG Key Isolation
    COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_26007
    CoreMessaging
    Cryptographic Services
    Data Usage
    DCOM Server Process Launcher
-   Device Install Service
+   Device Setup Manager
    DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Display Policy Service
+   Distributed Link Tracking Client
    DNS Client
-   Geolocation Service
    Group Policy Client
-   Hyper-V Data Exchange Service
-   Hyper-V Guest Shutdown Service
-   Hyper-V Heartbeat Service
-   Hyper-V Remote Desktop Virtualization Service
-   Hyper-V Time Synchronization Service
-   Hyper-V Volume Shadow Copy Requestor
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
    Local Session Manager
+   Microsoft Passport Container
    Network Connection Broker
    Network List Service
    Network Location Awareness
    Network Store Interface Service
    Plug and Play
-   Portable Device Enumerator Service
    Power
+   Print Spooler
+   Radio Management Service
    Remote Desktop Configuration
    Remote Desktop Services
    Remote Desktop Services UserMode Port Redirector
    Remote Procedure Call (RPC)
    RPC Endpoint Mapper
    Security Accounts Manager
+   Security Center
    Server
    Shell Hardware Detection
-   Software Protection
    State Repository Service
-   Sysmon64
-   System Event Notification Service
-   System Events Broker
-   Task Scheduler
-   Tile Data model server
-   Time Broker
-   TokenBroker
-   User Manager
-   User Profile Service
-   VmRemoteService
-   Volume Shadow Copy
-   Windows Audio
-   Windows Audio Endpoint Builder
-   Windows Connection Manager
-   Windows Defender Security Center Service
-   Windows Error Reporting Service
-   Windows Event Log
-   Windows Firewall
-   Windows Font Cache Service
-   Windows Installer
-   Windows Management Instrumentation
-   WinHTTP Web Proxy Auto-Discovery Service
-   Workstation
-
-The command completed successfully. , These Windows services are started:
-
-   AppX Deployment Service (AppXSVC)
-   Background Tasks Infrastructure Service
-   Base Filtering Engine
-   Certificate Propagation
-   CNG Key Isolation
-   COM+ Event System
-   CoreMessaging
-   Cryptographic Services
-   Data Usage
-   DCOM Server Process Launcher
-   Device Install Service
-   DHCP Client
-   DNS Client
-   Geolocation Service
-   Group Policy Client
-   Hyper-V Data Exchange Service
-   Hyper-V Guest Shutdown Service
-   Hyper-V Heartbeat Service
-   Hyper-V Remote Desktop Virtualization Service
-   Hyper-V Time Synchronization Service
-   Hyper-V Volume Shadow Copy Requestor
-   Local Session Manager
-   Network Connection Broker
-   Network List Service
-   Network Location Awareness
-   Network Store Interface Service
-   Plug and Play
-   Portable Device Enumerator Service
-   Power
-   Remote Desktop Configuration
-   Remote Desktop Services
-   Remote Desktop Services UserMode Port Redirector
-   Remote Procedure Call (RPC)
-   RPC Endpoint Mapper
-   Security Accounts Manager
-   Server
-   Shell Hardware Detection
-   Software Protection
-   State Repository Service
-   Sysmon64
-   System Event Notification Service
-   System Events Broker
-   Task Scheduler
-   Tile Data model server
-   Time Broker
-   TokenBroker
-   User Manager
-   User Profile Service
-   VmRemoteService
-   Volume Shadow Copy
-   Windows Audio
-   Windows Audio Endpoint Builder
-   Windows Connection Manager
-   Windows Defender Security Center Service
-   Windows Event Log
-   Windows Firewall
-   Windows Font Cache Service
-   Windows Installer
-   Windows Management Instrumentation
-   WinHTTP Web Proxy Auto-Discovery Service
-   Workstation
-
-The command completed successfully. , These Windows services are started:
-
-   AppX Deployment Service (AppXSVC)
-   Background Intelligent Transfer Service
-   Background Tasks Infrastructure Service
-   Base Filtering Engine
-   Capability Access Manager Service
-   Client License Service (ClipSVC)
-   CNG Key Isolation
-   COM+ Event System
-   Connected Devices Platform Service
-   Connected Devices Platform User Service_35fd9
-   CoreMessaging
-   Cryptographic Services
-   Data Usage
-   DCOM Server Process Launcher
-   debugregsvc
-   Device Install Service
-   Device Setup Manager
-   DHCP Client
-   Display Policy Service
-   DNS Client
-   File History Service
-   Group Policy Client
-   IKE and AuthIP IPsec Keying Modules
-   Intel(R) Content Protection HDCP Service
-   Intel(R) HD Graphics Control Panel Service
-   Local Session Manager
-   Microsoft Account Sign-in Assistant
-   Microsoft Office Click-to-Run Service
-   Microsoft Passport
-   Microsoft Passport Container
-   Network Connection Broker
-   Network List Service
-   Network Location Awareness
-   Network Store Interface Service
-   Payments and NFC/SE Manager
-   Plug and Play
-   Portable Device Enumerator Service
-   Power
-   Print Spooler
-   Remote Access Connection Manager
-   Remote Procedure Call (RPC)
-   RPC Endpoint Mapper
-   Secure Socket Tunneling Protocol Service
-   Security Accounts Manager
-   Server
-   Shell Hardware Detection
-   Software Protection
-   SSDP Discovery
-   State Repository Service
+   Storage Service
    SysMain
    System Event Notification Service
    System Events Broker
+   System Guard Runtime Monitor Broker
    Task Scheduler
    TCP/IP NetBIOS Helper
    Themes
    Time Broker
+   Touch Keyboard and Handwriting Panel Service
    User Manager
    User Profile Service
-   Web Account Manager
    Windows Audio
    Windows Audio Endpoint Builder
    Windows Connection Manager
    Windows Defender Firewall
    Windows Event Log
    Windows Font Cache Service
-   Windows License Manager Service
    Windows Management Instrumentation
-   Windows Presentation Foundation Font Cache 3.0.0.0
-   Windows Push Notifications User Service_35fd9
-   Windows Update
-   Windows Update Medic Service
-   WinHTTP Web Proxy Auto-Discovery Service
-   WMI Performance Adapter
-   Workstation
-
-The command completed successfully. , These Windows services are started:
-
-   AppX Deployment Service (AppXSVC)
-   Background Intelligent Transfer Service
-   Background Tasks Infrastructure Service
-   Base Filtering Engine
-   BitLocker Drive Encryption Service
-   Capability Access Manager Service
-   Client License Service (ClipSVC)
-   CNG Key Isolation
-   COM+ Event System
-   Connected Devices Platform Service
-   Connected Devices Platform User Service_37009
-   CoreMessaging
-   Cryptographic Services
-   Data Usage
-   DCOM Server Process Launcher
-   debugregsvc
-   Device Install Service
-   Device Setup Manager
-   DHCP Client
-   Display Policy Service
-   DNS Client
-   File History Service
-   Group Policy Client
-   IKE and AuthIP IPsec Keying Modules
-   Intel(R) Content Protection HDCP Service
-   Intel(R) HD Graphics Control Panel Service
-   Local Session Manager
-   Microsoft Account Sign-in Assistant
-   Microsoft Office Click-to-Run Service
-   Microsoft Passport
-   Microsoft Passport Container
-   Network Connection Broker
-   Network List Service
-   Network Location Awareness
-   Network Store Interface Service
-   Payments and NFC/SE Manager
-   Plug and Play
-   Portable Device Enumerator Service
-   Power
-   Print Spooler
-   Remote Access Connection Manager
-   Remote Procedure Call (RPC)
-   RPC Endpoint Mapper
-   Secure Socket Tunneling Protocol Service
-   Security Accounts Manager
-   Server
-   Shell Hardware Detection
-   Software Protection
-   SSDP Discovery
-   State Repository Service
-   SysMain
-   System Event Notification Service
-   System Events Broker
-   Task Scheduler
-   TCP/IP NetBIOS Helper
-   Themes
-   Time Broker
-   User Manager
-   User Profile Service
-   Web Account Manager
-   Windows Audio
-   Windows Audio Endpoint Builder
-   Windows Connection Manager
-   Windows Defender Firewall
-   Windows Event Log
-   Windows Font Cache Service
-   Windows License Manager Service
-   Windows Management Instrumentation
-   Windows Presentation Foundation Font Cache 3.0.0.0
    Windows Push Notifications System Service
-   Windows Push Notifications User Service_37009
-   Windows Update
+   Windows Push Notifications User Service_26007
+   Windows Security Service
    Windows Update Medic Service
    WinHTTP Web Proxy Auto-Discovery Service
-   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Certificate Propagation
+   Clipboard User Service_26007
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_26007
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Setup Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Desktop Configuration
+   Remote Desktop Services
+   Remote Desktop Services UserMode Port Redirector
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   Storage Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   System Guard Runtime Monitor Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_26007
+   Windows Security Service
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Certificate Propagation
+   CNG Key Isolation
+   COM+ Event System
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Install Service
+   DHCP Client
+   DNS Client
+   Geolocation Service
+   Group Policy Client
+   Hyper-V Data Exchange Service
+   Hyper-V Guest Shutdown Service
+   Hyper-V Heartbeat Service
+   Hyper-V Remote Desktop Virtualization Service
+   Hyper-V Time Synchronization Service
+   Hyper-V Volume Shadow Copy Requestor
+   Local Session Manager
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Remote Desktop Configuration
+   Remote Desktop Services
+   Remote Desktop Services UserMode Port Redirector
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   Sysmon64
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   Tile Data model server
+   Time Broker
+   TokenBroker
+   User Manager
+   User Profile Service
+   VmRemoteService
+   Volume Shadow Copy
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Security Center Service
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Installer
+   Windows Management Instrumentation
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Certificate Propagation
+   Clipboard User Service_25f74
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_25f74
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Setup Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Desktop Configuration
+   Remote Desktop Services
+   Remote Desktop Services UserMode Port Redirector
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   Storage Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   System Guard Runtime Monitor Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_25f74
+   Windows Security Service
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Identity
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Clipboard User Service_54cec
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_54cec
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Geolocation Service
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Defender Core Service
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   State Repository Service
+   Storage Service
+   Sync Host_54cec
+   Sysmon64
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Text Input Management Service
+   Themes
+   Time Broker
+   Udk User Service_54cec
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Web Threat Defense Service
+   Web Threat Defense User Service_54cec
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_54cec
+   Windows Security Service
+   WinHTTP Web Proxy Auto-Discovery Service
    Workstation
 
 The command completed successfully. , These Windows services are started:
@@ -357,10 +436,10 @@ The command completed successfully. , These Windows services are started:
    BitLocker Drive Encryption Service
    Capability Access Manager Service
    Client Licence Service (ClipSVC)
-   Clipboard User Service_473b6
+   Clipboard User Service_46b67
    CNG Key Isolation
    Connected Devices Platform Service
-   Connected Devices Platform User Service_473b6
+   Connected Devices Platform User Service_46b67
    CoreMessaging
    Cryptographic Services
    Data Usage
@@ -371,7 +450,6 @@ The command completed successfully. , These Windows services are started:
    Display Policy Service
    Distributed Link Tracking Client
    DNS Client
-   Google Update Service (gupdate)
    Group Policy Client
    Intel(R) Content Protection HDCP Service
    Intel(R) Graphics Command Center Service
@@ -406,7 +484,7 @@ The command completed successfully. , These Windows services are started:
    Themes
    Time Broker
    Touch Keyboard and Handwriting Panel Service
-   Udk User Service_473b6
+   Udk User Service_46b67
    User Manager
    User Profile Service
    WaaSMedicSvc
@@ -420,7 +498,436 @@ The command completed successfully. , These Windows services are started:
    Windows Font Cache Service
    Windows License Manager Service
    Windows Push Notifications System Service
-   Windows Push Notifications User Service_473b6
+   Windows Push Notifications User Service_46b67
+   Windows Search
+   Windows Time
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client Licence Service (ClipSVC)
+   Clipboard User Service_494fd
+   CNG Key Isolation
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_494fd
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Association Service
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Provider Host
+   Function Discovery Resource Publication
+   Google Update Service (gupdate)
+   Group Policy Client
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Graphics Command Center Service
+   Intel(R) Management Engine WMI Provider Registration
+   Intel(R) TPM Provisioning Service
+   IP Helper
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Defender Antivirus Service
+   Microsoft Office Click-to-Run Service
+   Network Connected Devices Auto-Setup
+   Network Connection Broker
+   Network List Service
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Udk User Service_494fd
+   User Manager
+   User Profile Service
+   WaaSMedicSvc
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_494fd
+   Windows Search
+   Windows Time
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1bbe4
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1bbe4
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1bbe4
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_1575b
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_1575b
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_1aaa5
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Geolocation Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_1aaa5
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client Licence Service (ClipSVC)
+   Clipboard User Service_48e79
+   CNG Key Isolation
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_48e79
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Association Service
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Provider Host
+   Function Discovery Resource Publication
+   Google Update Service (gupdate)
+   Group Policy Client
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Graphics Command Center Service
+   Intel(R) Management Engine WMI Provider Registration
+   Intel(R) TPM Provisioning Service
+   IP Helper
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Defender Antivirus Service
+   Microsoft Office Click-to-Run Service
+   Network Connected Devices Auto-Setup
+   Network Connection Broker
+   Network List Service
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Udk User Service_48e79
+   User Manager
+   User Profile Service
+   WaaSMedicSvc
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_48e79
+   Windows Search
+   Windows Time
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client Licence Service (ClipSVC)
+   Clipboard User Service_493cc
+   CNG Key Isolation
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_493cc
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Google Update Service (gupdate)
+   Group Policy Client
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Graphics Command Center Service
+   Intel(R) Management Engine WMI Provider Registration
+   Intel(R) TPM Provisioning Service
+   IP Helper
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Defender Antivirus Service
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network List Service
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Udk User Service_493cc
+   User Manager
+   User Profile Service
+   WaaSMedicSvc
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_493cc
    Windows Search
    Windows Time
    Windows Update
@@ -438,7 +945,7 @@ The command completed successfully. , These Windows services are started:
    CNG Key Isolation
    COM+ Event System
    Connected Devices Platform Service
-   Connected Devices Platform User Service_33ef0
+   Connected Devices Platform User Service_345c7
    CoreMessaging
    Cryptographic Services
    Data Usage
@@ -495,7 +1002,7 @@ The command completed successfully. , These Windows services are started:
    Windows Management Instrumentation
    Windows Presentation Foundation Font Cache 3.0.0.0
    Windows Push Notifications System Service
-   Windows Push Notifications User Service_33ef0
+   Windows Push Notifications User Service_345c7
    Windows Update
    Windows Update Medic Service
    WinHTTP Web Proxy Auto-Discovery Service
@@ -505,43 +1012,36 @@ The command completed successfully. , These Windows services are started:
 The command completed successfully. , These Windows services are started:
 
    AppX Deployment Service (AppXSVC)
-   Background Intelligent Transfer Service
    Background Tasks Infrastructure Service
    Base Filtering Engine
    Capability Access Manager Service
    Client License Service (ClipSVC)
+   Clipboard User Service_1bfc5
    CNG Key Isolation
    COM+ Event System
-   Connected Devices Platform Service
-   Connected Devices Platform User Service_33f1b
+   Connected Devices Platform User Service_1bfc5
+   Connected User Experiences and Telemetry
    CoreMessaging
    Cryptographic Services
-   Data Usage
    DCOM Server Process Launcher
-   debugregsvc
-   Device Install Service
+   Delivery Optimization
    Device Setup Manager
    DHCP Client
    Display Policy Service
+   Distributed Link Tracking Client
    DNS Client
    Group Policy Client
    IKE and AuthIP IPsec Keying Modules
-   Intel(R) Content Protection HDCP Service
-   Intel(R) HD Graphics Control Panel Service
+   IP Helper
+   IPsec Policy Agent
    Local Session Manager
    Microsoft Account Sign-in Assistant
    Microsoft Office Click-to-Run Service
-   Microsoft Passport
-   Microsoft Passport Container
-   Network Connection Broker
    Network List Service
    Network Location Awareness
    Network Store Interface Service
-   Payments and NFC/SE Manager
    Plug and Play
-   Portable Device Enumerator Service
-   Power
-   Print Spooler
+   Program Compatibility Assistant Service
    Remote Access Connection Manager
    Remote Procedure Call (RPC)
    RPC Endpoint Mapper
@@ -549,9 +1049,8 @@ The command completed successfully. , These Windows services are started:
    Security Accounts Manager
    Server
    Shell Hardware Detection
-   SSDP Discovery
+   Software Protection
    State Repository Service
-   SysMain
    System Event Notification Service
    System Events Broker
    Task Scheduler
@@ -564,17 +1063,14 @@ The command completed successfully. , These Windows services are started:
    Windows Audio
    Windows Audio Endpoint Builder
    Windows Connection Manager
-   Windows Defender Firewall
    Windows Event Log
    Windows Font Cache Service
+   Windows License Manager Service
    Windows Management Instrumentation
-   Windows Presentation Foundation Font Cache 3.0.0.0
-   Windows Push Notifications System Service
-   Windows Push Notifications User Service_33f1b
-   Windows Update
+   Windows Modules Installer
+   Windows Push Notifications User Service_1bfc5
    Windows Update Medic Service
    WinHTTP Web Proxy Auto-Discovery Service
-   WMI Performance Adapter
    Workstation
 
 The command completed successfully. , These Windows services are started:
@@ -583,13 +1079,77 @@ The command completed successfully. , These Windows services are started:
    Background Intelligent Transfer Service
    Background Tasks Infrastructure Service
    Base Filtering Engine
-   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1e3eb
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1e3eb
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1e3eb
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
    Capability Access Manager Service
    Client License Service (ClipSVC)
    CNG Key Isolation
    COM+ Event System
    Connected Devices Platform Service
-   Connected Devices Platform User Service_33da9
+   Connected Devices Platform User Service_365e7
    CoreMessaging
    Cryptographic Services
    Data Usage
@@ -626,6 +1186,853 @@ The command completed successfully. , These Windows services are started:
    Security Accounts Manager
    Server
    Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_365e7
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_3715a
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   debugregsvc
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   DNS Client
+   File History Service
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Content Protection HDCP Service
+   Intel(R) HD Graphics Control Panel Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Payments and NFC/SE Manager
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_3715a
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client Licence Service (ClipSVC)
+   Clipboard User Service_47689
+   CNG Key Isolation
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_47689
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Graphics Command Center Service
+   Intel(R) Management Engine WMI Provider Registration
+   Intel(R) TPM Provisioning Service
+   IP Helper
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Defender Antivirus Service
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network List Service
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Udk User Service_47689
+   User Manager
+   User Profile Service
+   WaaSMedicSvc
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_47689
+   Windows Search
+   Windows Time
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_15c27
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Geolocation Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_15c27
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_36c56
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   debugregsvc
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Content Protection HDCP Service
+   Intel(R) HD Graphics Control Panel Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Payments and NFC/SE Manager
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_36c56
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client Licence Service (ClipSVC)
+   Clipboard User Service_4ae52
+   CNG Key Isolation
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_4ae52
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Association Service
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Provider Host
+   Function Discovery Resource Publication
+   Group Policy Client
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Graphics Command Center Service
+   Intel(R) Management Engine WMI Provider Registration
+   Intel(R) TPM Provisioning Service
+   IP Helper
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Defender Antivirus Service
+   Microsoft Office Click-to-Run Service
+   Network Connected Devices Auto-Setup
+   Network Connection Broker
+   Network List Service
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Udk User Service_4ae52
+   User Manager
+   User Profile Service
+   WaaSMedicSvc
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_4ae52
+   Windows Search
+   Windows Time
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_155dd
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_155dd
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_159ee
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   State Repository Service
+   Superfetch
+   Sync Host_159ee
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_35946
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   debugregsvc
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Content Protection HDCP Service
+   Intel(R) HD Graphics Control Panel Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Payments and NFC/SE Manager
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_35946
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1ba96
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1ba96
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1ba96
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1dc90
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1dc90
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1dc90
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1e24a
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1e24a
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1e24a
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_33e0d
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   debugregsvc
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Content Protection HDCP Service
+   Intel(R) HD Graphics Control Panel Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Payments and NFC/SE Manager
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
    SSDP Discovery
    State Repository Service
    SysMain
@@ -647,7 +2054,7 @@ The command completed successfully. , These Windows services are started:
    Windows Management Instrumentation
    Windows Presentation Foundation Font Cache 3.0.0.0
    Windows Push Notifications System Service
-   Windows Push Notifications User Service_33da9
+   Windows Push Notifications User Service_33e0d
    Windows Update
    Windows Update Medic Service
    WinHTTP Web Proxy Auto-Discovery Service
@@ -661,11 +2068,1992 @@ The command completed successfully. , These Windows services are started:
    Background Tasks Infrastructure Service
    Base Filtering Engine
    Capability Access Manager Service
-   Clipboard User Service_45540
+   Client License Service (ClipSVC)
+   Clipboard User Service_1d7e9
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1d7e9
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1d7e9
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Certificate Propagation
+   Clipboard User Service_25f74
    CNG Key Isolation
    COM+ Event System
    Connected Devices Platform Service
-   Connected Devices Platform User Service_45540
+   Connected Devices Platform User Service_25f74
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Setup Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Desktop Configuration
+   Remote Desktop Services
+   Remote Desktop Services UserMode Port Redirector
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   State Repository Service
+   Storage Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   System Guard Runtime Monitor Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_25f74
+   Windows Security Service
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_15c94
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Geolocation Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_15c94
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_377e6
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   debugregsvc
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   DNS Client
+   File History Service
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Content Protection HDCP Service
+   Intel(R) HD Graphics Control Panel Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Payments and NFC/SE Manager
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_377e6
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_367b9
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   debugregsvc
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Content Protection HDCP Service
+   Intel(R) HD Graphics Control Panel Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Payments and NFC/SE Manager
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_367b9
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_15444
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Geolocation Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_15444
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_1540d
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   State Repository Service
+   Superfetch
+   Sync Host_1540d
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1c8c2
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1c8c2
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Sync Host_1c8c2
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1c8c2
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1bbc8
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1bbc8
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1bbc8
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1c55e
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1c55e
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1c55e
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1bc5b
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1bc5b
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1bc5b
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_14d4f
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Geolocation Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_14d4f
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_1560f
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_1560f
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   cbdhsvc_14ed0
+   CDPUserSvc_14ed0
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   DHCP Client
+   Distributed Link Tracking Client
+   Group Policy Client
+   IP Helper
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office ??????
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   System Guard Runtime Monitor Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Security Service
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+   WpnUserService_14ed0
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_15767
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Geolocation Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_15767
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_36280
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   debugregsvc
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   DNS Client
+   File History Service
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Content Protection HDCP Service
+   Intel(R) HD Graphics Control Panel Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Payments and NFC/SE Manager
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_36280
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_3634f
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   debugregsvc
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   DNS Client
+   File History Service
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Content Protection HDCP Service
+   Intel(R) HD Graphics Control Panel Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Payments and NFC/SE Manager
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_3634f
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   WMI Performance Adapter
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_155cd
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_155cd
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_159dd
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_159dd
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1b1cd
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1b1cd
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1b1cd
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CDPUserSvc_152f7
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   State Repository Service
+   Superfetch
+   Sync Host_152f7
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Tile Data model server
+   Time Broker
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Search
+   Windows Time
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Certificate Propagation
+   Clipboard User Service_26a33
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_26a33
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Setup Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Desktop Configuration
+   Remote Desktop Services
+   Remote Desktop Services UserMode Port Redirector
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   State Repository Service
+   Storage Service
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   System Guard Runtime Monitor Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_26a33
+   Windows Security Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1ebb0
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1ebb0
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Downloaded Maps Manager
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Sync Host_1ebb0
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1ebb0
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1d459
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1d459
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1d459
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_2aed2
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_2aed2
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport Container
+   Network Connection Broker
+   Network List Service
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   sysmon
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Udk User Service_2aed2
+   User Manager
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   cbdhsvc_28610
+   CDPUserSvc_28610
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Microsoft Passport Container
+   Microsoft Store Install Service
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   sysmon
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Defender Firewall
+   Windows Event Log
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1bbea
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1bbea
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1bbea
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1bd71
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1bd71
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1bd71
+   Windows Update
+   Windows Update Medic Service
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   cbdhsvc_1ab81
+   CDPUserSvc_1ab81
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+   WpnUserService_1ab81
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_1e3cb
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform User Service_1e3cb
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Downloaded Maps Manager
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications User Service_1e3cb
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Client License Service (ClipSVC)
+   Clipboard User Service_4afa4
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_4afa4
    Connected User Experiences and Telemetry
    CoreMessaging
    Credential Manager
@@ -703,7 +4091,7 @@ The command completed successfully. , These Windows services are started:
    Shell Hardware Detection
    SSDP Discovery
    State Repository Service
-   Sync Host_45540
+   Sync Host_4afa4
    SysMain
    System Event Notification Service
    System Events Broker
@@ -722,10 +4110,11 @@ The command completed successfully. , These Windows services are started:
    Windows Connection Manager
    Windows Event Log
    Windows Font Cache Service
+   Windows License Manager Service
    Windows Management Instrumentation
    Windows Modules Installer
    Windows Push Notifications System Service
-   Windows Push Notifications User Service_45540
+   Windows Push Notifications User Service_4afa4
    Windows Search
    Windows Update
    WinHTTP Web Proxy Auto-Discovery Service
@@ -738,17 +4127,19 @@ The command completed successfully. , These Windows services are started:
    Background Tasks Infrastructure Service
    Base Filtering Engine
    Capability Access Manager Service
-   Clipboard User Service_45540
+   Client License Service (ClipSVC)
+   Clipboard User Service_4afa4
    CNG Key Isolation
    COM+ Event System
    Connected Devices Platform Service
-   Connected Devices Platform User Service_45540
+   Connected Devices Platform User Service_4afa4
    Connected User Experiences and Telemetry
    CoreMessaging
    Credential Manager
    Cryptographic Services
    Data Usage
    DCOM Server Process Launcher
+   Delivery Optimization
    DHCP Client
    Diagnostic Policy Service
    Diagnostic Service Host
@@ -761,6 +4152,7 @@ The command completed successfully. , These Windows services are started:
    IP Helper
    IPsec Policy Agent
    Local Session Manager
+   Microsoft Account Sign-in Assistant
    Microsoft Office Click-to-Run Service
    Network Connection Broker
    Network List Service
@@ -778,7 +4170,7 @@ The command completed successfully. , These Windows services are started:
    Shell Hardware Detection
    SSDP Discovery
    State Repository Service
-   Sync Host_45540
+   Sync Host_4afa4
    SysMain
    System Event Notification Service
    System Events Broker
@@ -797,82 +4189,10 @@ The command completed successfully. , These Windows services are started:
    Windows Connection Manager
    Windows Event Log
    Windows Font Cache Service
+   Windows License Manager Service
    Windows Management Instrumentation
    Windows Push Notifications System Service
-   Windows Push Notifications User Service_45540
-   Windows Search
-   Windows Update
-   WinHTTP Web Proxy Auto-Discovery Service
-   Workstation
-
-The command completed successfully. , These Windows services are started:
-
-   AppX Deployment Service (AppXSVC)
-   Background Intelligent Transfer Service
-   Background Tasks Infrastructure Service
-   Base Filtering Engine
-   Clipboard User Service_45540
-   CNG Key Isolation
-   COM+ Event System
-   Connected Devices Platform Service
-   Connected Devices Platform User Service_45540
-   Connected User Experiences and Telemetry
-   CoreMessaging
-   Credential Manager
-   Cryptographic Services
-   Data Usage
-   DCOM Server Process Launcher
-   DHCP Client
-   Diagnostic Policy Service
-   Diagnostic Service Host
-   Diagnostic System Host
-   Distributed Link Tracking Client
-   DNS Client
-   FortiEDR Collector Service
-   Group Policy Client
-   IKE and AuthIP IPsec Keying Modules
-   IP Helper
-   IPsec Policy Agent
-   Local Session Manager
-   Microsoft Office Click-to-Run Service
-   Network Connection Broker
-   Network List Service
-   Network Location Awareness
-   Network Store Interface Service
-   Plug and Play
-   Power
-   Print Spooler
-   Remote Access Connection Manager
-   Remote Procedure Call (RPC)
-   RPC Endpoint Mapper
-   Secure Socket Tunneling Protocol Service
-   Security Accounts Manager
-   Server
-   Shell Hardware Detection
-   SSDP Discovery
-   State Repository Service
-   Sync Host_45540
-   SysMain
-   System Event Notification Service
-   System Events Broker
-   Task Scheduler
-   TCP/IP NetBIOS Helper
-   Themes
-   Time Broker
-   Touch Keyboard and Handwriting Panel Service
-   Update Orchestrator Service
-   User Manager
-   User Profile Service
-   VirtualBox Guest Additions Service
-   Web Account Manager
-   Windows Audio
-   Windows Audio Endpoint Builder
-   Windows Connection Manager
-   Windows Event Log
-   Windows Font Cache Service
-   Windows Management Instrumentation
-   Windows Push Notifications System Service
-   Windows Push Notifications User Service_45540
+   Windows Push Notifications User Service_4afa4
    Windows Search
    Windows Update
    WinHTTP Web Proxy Auto-Discovery Service
@@ -885,11 +4205,12 @@ The command completed successfully. , These Windows services are started:
    Background Tasks Infrastructure Service
    Base Filtering Engine
    Capability Access Manager Service
-   Clipboard User Service_45540
+   Client License Service (ClipSVC)
+   Clipboard User Service_4afa4
    CNG Key Isolation
    COM+ Event System
    Connected Devices Platform Service
-   Connected Devices Platform User Service_45540
+   Connected Devices Platform User Service_4afa4
    Connected User Experiences and Telemetry
    CoreMessaging
    Credential Manager
@@ -924,10 +4245,9 @@ The command completed successfully. , These Windows services are started:
    Security Accounts Manager
    Server
    Shell Hardware Detection
-   Software Protection
    SSDP Discovery
    State Repository Service
-   Sync Host_45540
+   Sync Host_4afa4
    SysMain
    System Event Notification Service
    System Events Broker
@@ -946,13 +4266,448 @@ The command completed successfully. , These Windows services are started:
    Windows Connection Manager
    Windows Event Log
    Windows Font Cache Service
-   Windows Insider Service
+   Windows License Manager Service
    Windows Management Instrumentation
    Windows Push Notifications System Service
-   Windows Push Notifications User Service_45540
+   Windows Push Notifications User Service_4afa4
    Windows Search
    Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Clipboard User Service_4afa4
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_4afa4
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Distributed Link Tracking Client
+   DNS Client
+   FortiEDR Collector Service
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   State Repository Service
+   Sync Host_4afa4
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   VirtualBox Guest Additions Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_4afa4
+   Windows Search
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Clipboard User Service_4afa4
+   CNG Key Isolation
+   COM+ Event System
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_4afa4
+   Connected User Experiences and Telemetry
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Distributed Link Tracking Client
+   DNS Client
+   FortiEDR Collector Service
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   State Repository Service
+   Sync Host_4afa4
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   VirtualBox Guest Additions Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Management Instrumentation
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_4afa4
+   Windows Search
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   CNG Key Isolation
+   COM+ Event System
+   Computer Browser
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_23806
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Device Setup Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IPsec Policy Agent
+   Kaspersky Anti-Virus Service 19.0.0
+   Language Experience Service
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Store Install Service
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Office Software Protection Platform
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   State Repository Service
+   Superfetch
+   Sync Host_23806
+   System Event Notification Service
+   System Events Broker
+   System Guard Runtime Monitor Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Update Orchestrator Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows 10 Update Facilitation Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Security Center Service
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Insider Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_23806
+   Windows Remediation Service
    Windows Update Medic Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Capability Access Manager Service
+   Clipboard User Service_319c8
+   CNG Key Isolation
+   COM+ Event System
+   Computer Browser
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_319c8
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft Office Click-to-Run Service
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Sync Host_319c8
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   System Guard Runtime Monitor Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   User Manager
+   User Profile Service
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Modules Installer
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_319c8
+   Windows PushToInstall Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   AppX Deployment Service (AppXSVC)
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Certificate Propagation
+   CNG Key Isolation
+   COM+ Event System
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Install Service
+   DHCP Client
+   DNS Client
+   Geolocation Service
+   Group Policy Client
+   Hyper-V Data Exchange Service
+   Hyper-V Guest Shutdown Service
+   Hyper-V Heartbeat Service
+   Hyper-V Remote Desktop Virtualization Service
+   Hyper-V Time Synchronization Service
+   Hyper-V Volume Shadow Copy Requestor
+   Local Session Manager
+   Network Connection Broker
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Remote Desktop Configuration
+   Remote Desktop Services
+   Remote Desktop Services UserMode Port Redirector
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   State Repository Service
+   Sysmon64
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   Tile Data model server
+   Time Broker
+   TokenBroker
+   User Manager
+   User Profile Service
+   VmRemoteService
+   Volume Shadow Copy
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Security Center Service
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Installer
+   Windows Management Instrumentation
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+
+The command completed successfully. , These Windows services are started:
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   BitLocker Drive Encryption Service
+   Capability Access Manager Service
+   Client Licence Service (ClipSVC)
+   Clipboard User Service_477ad
+   CNG Key Isolation
+   Connected Devices Platform Service
+   Connected Devices Platform User Service_477ad
+   CoreMessaging
+   Cryptographic Services
+   Data Usage
+   DCOM Server Process Launcher
+   Device Association Service
+   Device Install Service
+   Device Setup Manager
+   DHCP Client
+   Display Policy Service
+   Distributed Link Tracking Client
+   DNS Client
+   File History Service
+   Function Discovery Provider Host
+   Function Discovery Resource Publication
+   Google Update Service (gupdate)
+   Group Policy Client
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Graphics Command Center Service
+   Intel(R) Management Engine WMI Provider Registration
+   Intel(R) TPM Provisioning Service
+   IP Helper
+   Local Session Manager
+   Microsoft Account Sign-in Assistant
+   Microsoft Defender Antivirus Service
+   Microsoft Office Click-to-Run Service
+   Network Connected Devices Auto-Setup
+   Network Connection Broker
+   Network List Service
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Radio Management Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   Software Protection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   Udk User Service_477ad
+   User Manager
+   User Profile Service
+   WaaSMedicSvc
+   Web Account Manager
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Font Cache Service
+   Windows License Manager Service
+   Windows Push Notifications System Service
+   Windows Push Notifications User Service_477ad
+   Windows Search
+   Windows Time
+   Windows Update
    WinHTTP Web Proxy Auto-Discovery Service
    Workstation
 
@@ -962,12 +4717,13 @@ The command completed successfully. , These Windows services are started:
    Background Intelligent Transfer Service
    Background Tasks Infrastructure Service
    Base Filtering Engine
+   BitLocker Drive Encryption Service
    Capability Access Manager Service
    Client License Service (ClipSVC)
    CNG Key Isolation
    COM+ Event System
    Connected Devices Platform Service
-   Connected Devices Platform User Service_34141
+   Connected Devices Platform User Service_340d3
    CoreMessaging
    Cryptographic Services
    Data Usage
@@ -1025,90 +4781,11 @@ The command completed successfully. , These Windows services are started:
    Windows Management Instrumentation
    Windows Presentation Foundation Font Cache 3.0.0.0
    Windows Push Notifications System Service
-   Windows Push Notifications User Service_34141
+   Windows Push Notifications User Service_340d3
    Windows Update
    Windows Update Medic Service
    WinHTTP Web Proxy Auto-Discovery Service
    WMI Performance Adapter
-   Workstation
-
-The command completed successfully. , These Windows services are started:
-
-   Application Information
-   AppX Deployment Service (AppXSVC)
-   Background Intelligent Transfer Service
-   Background Tasks Infrastructure Service
-   Base Filtering Engine
-   BitLocker Drive Encryption Service
-   Capability Access Manager Service
-   Client Licence Service (ClipSVC)
-   Clipboard User Service_4abf4
-   CNG Key Isolation
-   Connected Devices Platform Service
-   Connected Devices Platform User Service_4abf4
-   CoreMessaging
-   Cryptographic Services
-   Data Usage
-   DCOM Server Process Launcher
-   Device Install Service
-   Device Setup Manager
-   DHCP Client
-   Display Policy Service
-   Distributed Link Tracking Client
-   DNS Client
-   Group Policy Client
-   Intel(R) Content Protection HDCP Service
-   Intel(R) Graphics Command Center Service
-   Intel(R) Management Engine WMI Provider Registration
-   Intel(R) TPM Provisioning Service
-   IP Helper
-   Local Session Manager
-   Microsoft Account Sign-in Assistant
-   Microsoft Defender Antivirus Service
-   Microsoft Edge Update Service (edgeupdate)
-   Microsoft Office Click-to-Run Service
-   Network Connection Broker
-   Network List Service
-   Network Store Interface Service
-   Plug and Play
-   Portable Device Enumerator Service
-   Power
-   Print Spooler
-   Radio Management Service
-   Remote Procedure Call (RPC)
-   RPC Endpoint Mapper
-   Security Accounts Manager
-   Server
-   Shell Hardware Detection
-   Software Protection
-   SSDP Discovery
-   State Repository Service
-   Storage Service
-   System Events Broker
-   Task Scheduler
-   TCP/IP NetBIOS Helper
-   Themes
-   Time Broker
-   Touch Keyboard and Handwriting Panel Service
-   Udk User Service_4abf4
-   User Manager
-   User Profile Service
-   WaaSMedicSvc
-   Web Account Manager
-   Windows Audio
-   Windows Audio Endpoint Builder
-   Windows Connection Manager
-   Windows Defender Firewall
-   Windows Error Reporting Service
-   Windows Event Log
-   Windows Font Cache Service
-   Windows License Manager Service
-   Windows Push Notifications System Service
-   Windows Push Notifications User Service_4abf4
-   Windows Search
-   Windows Time
-   Windows Update
-   WinHTTP Web Proxy Auto-Discovery Service
    Workstation
 
 The command completed successfully.
