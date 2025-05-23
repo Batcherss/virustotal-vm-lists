@@ -16,7 +16,7 @@ Hardware Info (HW Info) is a set of vm pc that helps for creating anti-vm script
 - **Operating System Version** — to understand which system you’re dealing with.
 
 ---
-
+![cmd](raw/term.png) 
 ## Why is this useful?
 
 For:
